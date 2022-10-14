@@ -1,0 +1,7 @@
+KianList init
+1 2 3
+next init
+peek init
+next init
+next init
+hasNext init
