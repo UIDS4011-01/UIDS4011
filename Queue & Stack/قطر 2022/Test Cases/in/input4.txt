@@ -1,0 +1,75 @@
+74
+PopFront
+PushFront 23987
+PushFront 9162
+PushFront 22356
+PopBack
+PopFront
+PopMiddle
+PopBack
+PopMiddle
+PushBack 1151
+PopFront
+PopMiddle
+PopMiddle
+PopMiddle
+PopFront
+PopBack
+PushMiddle 11338
+PushMiddle 12288
+PopFront
+PopFront
+PopBack
+PopBack
+PushMiddle 9759
+PopBack
+PushFront 6423
+PopMiddle
+PushBack 13031
+PopFront
+PushBack 901
+PopBack
+PushFront 1656
+PopMiddle
+PopBack
+PushFront 20538
+PushBack 6484
+PushMiddle 4042
+PushBack 24351
+PushMiddle 30837
+PushBack 11021
+PushFront 24022
+PushFront 23200
+PushFront 24485
+PushMiddle 4735
+PopBack
+PushMiddle 26419
+PushBack 6901
+PushBack 18128
+PopBack
+PushBack 14894
+PushFront 22484
+PopBack
+PopFront
+PushFront 6618
+PushMiddle 9515
+PopBack
+PushBack 18936
+PopFront
+PushBack 5250
+PushMiddle 31557
+PopMiddle
+PopFront
+PushBack 11009
+PushFront 32610
+PushMiddle 32703
+PopFront
+PushMiddle 3094
+PopFront
+PushMiddle 1588
+PopMiddle
+PopBack
+PushBack 25201
+PushFront 6619
+PushFront 19797
+PushBack 15282

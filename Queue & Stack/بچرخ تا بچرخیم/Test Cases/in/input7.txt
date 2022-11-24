@@ -1,0 +1,27 @@
+50
+25
+Front
+Rear
+deQueue
+enQueue 0
+isEmpty
+enQueue 2
+enQueue 6
+enQueue 4
+enQueue 50
+enQueue 10
+enQueue 12
+deQueue
+enQueue 10
+deQueue
+Front
+enQueue 11
+Front
+Rear
+Front
+enQueue 8
+Rear
+isFull
+enQueue 8
+Front
+isFull

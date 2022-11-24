@@ -1,0 +1,85 @@
+84
+PopMiddle
+PopFront
+PushMiddle 57747794
+PushMiddle 19885387
+PushFront 96516650
+PushMiddle 25202363
+PushMiddle 83368691
+PushMiddle 44897764
+PopMiddle
+PushFront 40383427
+PopMiddle
+PopMiddle
+PopBack
+PushBack 94702568
+PopFront
+PushBack 61021531
+PushBack 33665124
+PushMiddle 68703136
+PopBack
+PushFront 15634023
+PushFront 69133070
+PopFront
+PushMiddle 89018457
+PushMiddle 56478043
+PopFront
+PopFront
+PopFront
+PopBack
+PushBack 56898538
+PushBack 73594325
+PopBack
+PushFront 29566414
+PopMiddle
+PushMiddle 24268981
+PushBack 49241874
+PushBack 42999171
+PopMiddle
+PushMiddle 11702306
+PopFront
+PushBack 27336328
+PushBack 59126506
+PopMiddle
+PopFront
+PushMiddle 33925858
+PushFront 84353896
+PushFront 1100546
+PushBack 48233368
+PushBack 85990365
+PopFront
+PushBack 77171088
+PushFront 45117277
+PushBack 80695789
+PushFront 91705404
+PopBack
+PushBack 74612400
+PushFront 64095061
+PushBack 43993369
+PushMiddle 84210013
+PopMiddle
+PushFront 69348095
+PopBack
+PopFront
+PopMiddle
+PushBack 75960379
+PopBack
+PopFront
+PopBack
+PushBack 30573318
+PushFront 87926653
+PushBack 59997302
+PushBack 2724287
+PushMiddle 94953866
+PopBack
+PopMiddle
+PopBack
+PopMiddle
+PopFront
+PopFront
+PushMiddle 14738098
+PopBack
+PopFront
+PopBack
+PopFront
+PushMiddle 31704568

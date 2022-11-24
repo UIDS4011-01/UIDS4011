@@ -1,0 +1,15 @@
+0
+13
+Front
+Rear
+enQueue 0
+deQueue
+Front
+enQueue 10
+isEmpty
+enQueue 2
+isFull
+Front
+enQueue 6
+Rear
+deQueue

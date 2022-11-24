@@ -1,0 +1,43 @@
+42
+PopBack
+PopMiddle
+PopMiddle
+PopBack
+PopMiddle
+PushFront 29359
+PopMiddle
+PushBack 5706
+PopBack
+PushMiddle 16828
+PushMiddle 492
+PushMiddle 11943
+PopFront
+PushFront 32392
+PushFront 3903
+PopFront
+PopMiddle
+PopMiddle
+PopFront
+PushBack 19719
+PopBack
+PopBack
+PushFront 14772
+PushFront 1870
+PopMiddle
+PopBack
+PushMiddle 17036
+PushFront 28704
+PopFront
+PushBack 30334
+PopFront
+PushBack 15142
+PushMiddle 28254
+PopMiddle
+PopBack
+PushBack 32663
+PopFront
+PopFront
+PushMiddle 8724
+PopFront
+PushMiddle 779
+PopMiddle

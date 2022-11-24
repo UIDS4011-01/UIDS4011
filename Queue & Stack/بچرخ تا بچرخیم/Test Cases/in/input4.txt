@@ -1,0 +1,19 @@
+4
+17
+enQueue 1
+enQueue 0
+enQueue 2
+enQueue 3
+deQueue
+Front
+enQueue 5
+Rear
+enQueue 6
+deQueue
+Front
+enQueue 10
+Front
+Rear
+deQueue
+Front
+isFull

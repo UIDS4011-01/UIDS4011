@@ -1,0 +1,15 @@
+14
+PopMiddle
+PushBack 2169
+PushBack 18788
+PopBack
+PushFront 7392
+PushBack 3626
+PopBack
+PopMiddle
+PushBack 25825
+PushFront 25875
+PushFront 20160
+PushMiddle 28071
+PopBack
+PushMiddle 7519
